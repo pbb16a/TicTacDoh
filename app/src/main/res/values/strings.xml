@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Doh!</string>
+    <string name="winner_msg_p1">Player 1 Wins!</string>
+    <string name="winner_msg_p2">Player 2 Wins!</string>
+    <string name="netflix">  Netflix: 0</string>
+    <string name="amazon">  Amazon: 0</string>
+
+</resources>
