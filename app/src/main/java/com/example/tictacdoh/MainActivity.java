@@ -59,10 +59,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             if (player1Turn) {
                 ((Button) v).setText("x");
-                ((Button) v).setBackgroundResource(R.drawable.netflix);
+                ((Button) v).setBackgroundResource(R.drawable.amazon);
             } else {
                 ((Button) v).setText("o");
-                ((Button) v).setBackgroundResource(R.drawable.amazon);
+                ((Button) v).setBackgroundResource(R.drawable.netflix);
             }
 
             roundCount++;
